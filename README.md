@@ -1,0 +1,2 @@
+# pizzashopproject
+Django pizza shop
